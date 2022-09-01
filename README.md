@@ -9,6 +9,7 @@ created by  Ayesha Binte Mostofa (1805062),Zarin Tasnim (1805071) and Nusrat Noo
  
 This is a Hardware project. See our Project Demonstration : https://youtu.be/Gx7eTR-YP74
 
+We have added block diagram and circuit diagram in the project report. 
 
 ### Tools for project
 <li>Arduino Uno</li>
