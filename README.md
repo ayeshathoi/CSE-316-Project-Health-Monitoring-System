@@ -21,3 +21,18 @@ This is a Hardware project. See our Project Demonstration : https://youtu.be/Gx7
 <li>Power Bank - 5V 2A </li>
 <li>BreadBoard</li>
 <li>Jumper Wire</li>
+
+
+
+<h2>Features of Project: </h2>
+<li> Patient can know his/her body temperature, pulse rate and blood oxygen saturation level</li>
+<li> Patient can also know room humidity and room temperature .</li>
+<li> He/She can contact doctor through GSM module if pulse rate<60 or pulse rate > 125 or blood oxygen level<90 .</li>
+<li> He/she can also contact for room condition when room humidity<40% and room temperature > 36C .</li>
+<li> A buzzer will be activated when message will be sent so that doctor can pay more attention to the situation.</li>
+<li> A LCD Display will continuously show data for every activity :
+ 1. It shows if the sensors are connected or not.
+ 2. Finger placed on sensor or not
+ 3. The data read by DHT11 & Max30102 
+ 4. Message Sending situation
+</li>
