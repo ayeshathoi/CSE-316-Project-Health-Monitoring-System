@@ -30,9 +30,24 @@ This is a Hardware project. See our Project Demonstration : https://youtu.be/Gx7
 <li> He/She can contact doctor through GSM module if pulse rate<60 or pulse rate > 125 or blood oxygen level<90 .</li>
 <li> He/she can also contact for room condition when room humidity<40% and room temperature > 36C .</li>
 <li> A buzzer will be activated when message will be sent so that doctor can pay more attention to the situation.</li>
-<li> A LCD Display will continuously show data for every activity :
- 1. It shows if the sensors are connected or not.
- 2. Finger placed on sensor or not
- 3. The data read by DHT11 & Max30102 
- 4. Message Sending situation
-</li>
+ <li> A LCD Display will continuously show data for every activity.</li>
+ 
+ <h3>Arduino Uno</h3>
+ <li> Code is uploaded here</li>
+ <li> All components are connected to Arduino via jumper wires and breadboard.</li>
+ <li> Gives 5V & 3.3V to the components</li>
+ 
+ <h3>Max 30102</h3>
+ <li> Measure Body Temperature</li>
+ <li> Measure heart beats per minnute</li>
+ <li>  Measure Blood oxygen Saturation level</li>
+ 
+ <h3>DHT11</h3>
+ <li>Measure Room Temperature</li>
+ <li>Measure Room Humidity</li>
+ 
+<h3>LCD</h3>
+<li>1. It shows if the sensors are connected or not. </li>
+<li>Finger placed on sensor or not</li>
+<li>The data read by DHT11 & Max30102 </li>
+<li>Message Sending situation</li>
