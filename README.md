@@ -1,5 +1,5 @@
 # Health Monitoring System
-The main aim of the project is to monitor heart rate, humidity,  Temperature and blood oxygen saturation level of a patient body. It also monitors room humidity and room temperature of the patient room.This system designed by using Arduino Uno. Temperature and humidity sensor, Pulse oxymeter are being used here to measure temperature, blood oxygen level and pulse rate of body. Corona Patient can be benefitted from this technology  the most. SMS will be sent  to the doctor in case of any critical situation using buzzer by passing signal to GSM module.
+The main aim of the project is to monitor heart rate, body temperature and blood oxygen saturation level of a patient body. It also monitors room humidity and room temperature of the patient room.This system designed by using Arduino Uno. Pulse oxymeter are being used here to measure temperature, blood oxygen level and pulse rate of body.  Temperature and humidity sensor are being used to measure room temperature and room humidity. Corona Patient can be benefitted from this technology  the most. SMS will be sent  to the doctor in case of any critical situation by passing signal to GSM module. A buzzer will be activated so that doctor can pay more attention to the situation.
 
 
 Made for Level-3 Term-1,
