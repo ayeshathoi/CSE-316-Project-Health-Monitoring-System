@@ -6,9 +6,9 @@ CSE316: Microprocessors, Microcontrollers, and Embedded Systems Sessional,
 created by  Ayesha Binte Mostofa (1805062),Zarin Tasnim (1805071) and Nusrat Noor Labiba(1805081) 
 ###### Under the kind supervision of Dr. A.B.M. Alim Al Islam,Dr. Md. Monirul Islam & Md. Masum Mushfiq Sir 
  
-This is a Hardware project. See our Project Demonstration : https://youtu.be/Gx7eTR-YP74
+This is a Hardware project. See our Project Demonstration : [Youtube Link](https://youtu.be/Gx7eTR-YP74)
 
-We have added block diagram and circuit diagram in the project report. 
+We have added block diagram and circuit diagram in the [Project Report](https://github.com/ayeshathoi/CSE-316-Project-Health-Monitoring-System/blob/main/Project%20Report%20-%20Health%20Monitoring%20System%20(%2062%2C71%2C81).pdf).
 ![image](https://github.com/ayeshathoi/CSE-316-Project-Health-Monitoring-System/assets/79919256/82d21085-314a-43a0-a39e-99647d297b3f)
 
 
